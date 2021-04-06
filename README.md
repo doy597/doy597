@@ -1,7 +1,6 @@
 ### Profile
 	
 ![doy597's github stats](https://github-readme-stats.vercel.app/api?username=doy597)
-<img src="https://grass-graph.moshimo.works/images/doy597.png">
 
 <!--
 **doy597/doy597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
