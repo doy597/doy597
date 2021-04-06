@@ -1,9 +1,10 @@
 ### Profile
-	
-![doy597's github stats](https://github-readme-stats.vercel.app/api?username=doy597&show_icons=true&theme=radical&count_private=true)
 
-<!--使用言語-->
-![doy597's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doy597&show_icons=true&theme=radical&layout=compact&hide=html)
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=doy597&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/doy597/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doy597&layout=compact&theme=tokyonight&hide=html)](https://github.com/doy597/)
 
 <!--
 **doy597/doy597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
