@@ -4,7 +4,9 @@
 
 2020年
 - 顧客管理システム開発
-PHP/JavaSccript
+PHP/JavaScript
+- Webサイト制作
+PHP/JavaScript/Illustrator/Photoshop
 
 2021年
 - 請求書作成・管理システム開発
