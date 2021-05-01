@@ -1,17 +1,5 @@
 ### Profile
 
-#### 実績一覧
-
-2020年
-- 顧客管理システム開発
-PHP/JavaScript
-- Webサイト制作
-PHP/JavaScript/Illustrator/Photoshop
-
-2021年
-- 請求書作成・管理システム開発
-PHP/JavaScript
-
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=doy597&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/doy597/)
 
